@@ -19,7 +19,7 @@ module.exports = {
             },
             {
                 name: `github`,
-                url: `https://github.com/narative`,
+                url: `https://github.com/knighttimesnews`,
             },
         ],
     },
